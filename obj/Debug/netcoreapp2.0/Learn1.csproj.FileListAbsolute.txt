@@ -1,0 +1,11 @@
+C:\Users\0\source\repos\Learn1\Learn1\bin\Debug\netcoreapp2.0\Learn1.deps.json
+C:\Users\0\source\repos\Learn1\Learn1\bin\Debug\netcoreapp2.0\Learn1.runtimeconfig.json
+C:\Users\0\source\repos\Learn1\Learn1\bin\Debug\netcoreapp2.0\Learn1.runtimeconfig.dev.json
+C:\Users\0\source\repos\Learn1\Learn1\bin\Debug\netcoreapp2.0\Learn1.dll
+C:\Users\0\source\repos\Learn1\Learn1\bin\Debug\netcoreapp2.0\Learn1.pdb
+C:\Users\0\source\repos\Learn1\Learn1\obj\Debug\netcoreapp2.0\Learn1.csprojResolveAssemblyReference.cache
+C:\Users\0\source\repos\Learn1\Learn1\obj\Debug\netcoreapp2.0\Learn1.csproj.CoreCompileInputs.cache
+C:\Users\0\source\repos\Learn1\Learn1\obj\Debug\netcoreapp2.0\Learn1.AssemblyInfoInputs.cache
+C:\Users\0\source\repos\Learn1\Learn1\obj\Debug\netcoreapp2.0\Learn1.AssemblyInfo.cs
+C:\Users\0\source\repos\Learn1\Learn1\obj\Debug\netcoreapp2.0\Learn1.dll
+C:\Users\0\source\repos\Learn1\Learn1\obj\Debug\netcoreapp2.0\Learn1.pdb
